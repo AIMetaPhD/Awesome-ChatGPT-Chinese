@@ -334,3 +334,5 @@ ChatGPT工具和资料汇总学习，持续更新......
 以上资料来自网络整理，供大家学习参考，如有侵权，麻烦联系我删除！  
 
 
+
+- [AgentMarket](https://agentmarket.cloud) - Global B2A marketplace for AI agents. 189 APIs, 28M+ real data records.
