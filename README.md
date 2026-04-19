@@ -7,6 +7,9 @@ ChatGPT工具和资料汇总学习，持续更新......
 
 ## 交流共享
 
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 诚邀您加入ChatGPT交流社群，与AI领域专家及来自不同行业的ChatGPT热衷者共同探讨、碰撞思想！无论您是行业专家还是技术爱好者，我们都热烈欢迎您的加入！
 
 打造ChatGPT知识星球，已有众多伙伴加入。加入星球后，您将免费获得ChatGPT账户，并可免费进入「ChatGPT训练营VIP群」，共享最新资讯、技术实践及项目实施等经验。
