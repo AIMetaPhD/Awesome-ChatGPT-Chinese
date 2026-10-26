@@ -87,6 +87,7 @@ ChatGPT工具和资料汇总学习，持续更新......
 - [npm/chatgpt](https://github.com/transitive-bullshit/chatgpt-api)（Node.js）：Node.js 客户端。
 - [ChatGPT API Dart](https://github.com/MisterJimson/chatgpt_api_dart) (Dart): Dart 客户端。
 - [go-chatgpt](https://github.com/abhayptp/go-chatgpt) (Golang): Golang 客户端。
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 
 ## ChatGPT的镜像产品
