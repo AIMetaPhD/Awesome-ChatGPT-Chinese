@@ -72,6 +72,7 @@ ChatGPT工具和资料汇总学习，持续更新......
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action): Github Action，让 ChatGPT review 你的 PR。
 - [StackExplain](https://github.com/shobrook/stackexplain): 让 ChatGPT 解释错误讯息的命令列工具。
 - [ChatMind](https://www.chatmind.tech/)：透过人工智慧对话生成心智图。
+- [No Stairs Please MCP](https://nostairsplease.com/mcp): 远程 MCP 服务，支持按容量、流派、州和巡演路线检索全美 26,000+ 现场音乐场地。
 
 ## 提示词（Prompts）
 
